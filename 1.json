@@ -19,4 +19,5 @@
     {"title":"八戒资源","api":"http://cj.bajiecaiji.com/inc/api.php/provide/vod/","datatype":"xml","search":false},
     {"title":"天空资源","api":"http://api.tiankongapi.com/api.php/provide/vod/","datatype":"json","search":false},
     {"title":"快播资源","api":"http://www.kuaibozy.com/api.php/provide/vod/","datatype":"json","search":false}
+    {"title":"快播资源","api":"http://app.movie.tefuir0829.cn/api.php/provide/vod/","datatype":"json","search":false}
 ]
